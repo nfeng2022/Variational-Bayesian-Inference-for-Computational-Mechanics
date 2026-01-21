@@ -59,4 +59,4 @@ fpp.PostProcessing.plot_2d_mesh(step_id, mf, flag)
 ele_id = 12
 nipt_id = np.array([1, 3], dtype=int)
 von_mises_stress = fpp.PostProcessing.von_mises_stress(step_id, ele_id, nipt_id)
-c = 0
+
