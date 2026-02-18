@@ -6,7 +6,7 @@ The finite element analysis of the Cook's membrane example can be tested by runn
 fem_test.py
 ```
 The deformed shape can be shown as below:
-![fea_test](./deformed_shape.pdf) 
+![fea_test](./deformed_shape.png) 
 
 
 
