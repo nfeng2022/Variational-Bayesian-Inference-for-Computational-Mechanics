@@ -20,7 +20,7 @@ The deformed shape can be shown as below:
 ## Benchmark
 The variational Bayesian network is trained to predict von Mises stress at several locations of the Cook's membrane structure. The predicted mean values of the stress are shown as follows:
 
-![means](./mean_result_case4.png) 
+![means](./mean_results.png) 
 
 To train a variational Bayesian network, please run:
 ```
