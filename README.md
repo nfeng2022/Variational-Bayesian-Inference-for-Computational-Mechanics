@@ -1,7 +1,13 @@
 # Varitional Bayesian inference for finite element problem 
 A variational Bayesian network is implemented for predicting unobservable mehcnical response using measurmenable quantities. The training framework is based on a finite element analysis module implemented with tesnforflow functions.
 
-The finite element analysis can be tested using the Cook's membrane example and the deformed shape can be shown as below:
+The finite element analysis of the Cook's membrane example can be tested by running
+```
+fem_test.py
+```
+The deformed shape can be shown as below:
+
+
 
 
 
