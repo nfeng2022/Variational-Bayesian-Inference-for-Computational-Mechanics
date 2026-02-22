@@ -5,7 +5,7 @@ A variational Bayesian network is implemented for predicting unobservable mehcni
 - numpy
 - scipy
 - matplotlib
-- tensorflow 2.13
+- tensorflow 2.13 or later version
 
 ## FEM test
 The finite element analysis of the Cook's membrane example can be tested by running
